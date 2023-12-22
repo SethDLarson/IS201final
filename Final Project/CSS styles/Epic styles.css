@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(29, 29, 29)
+}
+
+.selfie {
+    margin-right: 80px;
+}
+
+.landscape {
+    margin-right: 130px;
+}
+
+.margin {
+    margin-left: 40px;
+}
+
+.margins {
+    margin-right: 40px;
+}
+
+.background {
+    background-image: url(../Images/Background\ landscape.webp);
+    background-position: top right;
+    background-size: cover;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    margin-right: 125px;
+    margin-left: 125px;
+    color: rgb(29, 29, 29);
+}
